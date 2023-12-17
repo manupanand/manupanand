@@ -2,17 +2,17 @@
 
 I am a passionate Software Developer with expertise in C, Python, Javascript, React, Node.js, MongoDB, SQL. My interests span across Web3 development and AI.
 
- 🔭 I’m currently working on MERN stack projects.
- 🌱 I’m currently learning MERN, Golang, Rust.
- 👯 I’m open to collaboration on interesting projects.
+-🔭 I’m currently working on MERN stack projects.
+-🌱 I’m currently learning MERN, Golang, Rust.
+- 👯 I’m open to collaboration on interesting projects.
 - 💬 Ask me about anything related to software development and technology.
 
 ## Technologies & Tools
 
- **Languages:** C, Python, Javascript
- **Web Development:** React, Node.js
- **Databases:** MongoDB, SQL
- **Interests:** Web3 development, AI
+ -**Languages:** C, Python, Javascript
+ -**Web Development:** React, Node.js
+ -**Databases:** MongoDB, SQL
+ -**Interests:** Web3 development, AI
 
 ## Connect with Me
 
