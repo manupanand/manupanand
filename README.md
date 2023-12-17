@@ -1,4 +1,4 @@
-###  Hello, 👋 .I am Manu P Anand
+###  Hello, 👋. I am Manu P Anand
 
 I am a passionate Software Developer with expertise in the C, Python, Javascript,React,Node Js, MongoDB, SQL. I have a deep interest in Web3 development, AI.
 <!--
