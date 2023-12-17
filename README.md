@@ -1,12 +1,13 @@
-### Hi there 👋
+###  Hello, 👋 .I am Manu P Anand
 
+I am a passionate Software Developer with expertise in the C, Python, Javascript,React,Node Js, MongoDB, SQL. I have a deep interest in Web3 development, AI.
 <!--
 **manupanand/manupanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...MERN stack
+- 🌱 I’m currently learning ...MERN, Golang, Rust
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
