@@ -23,6 +23,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manupanan
 I enjoy exploring new technologies and building cool projects in my free time.
 
 ## Hobbies
-Robotics, Aquarist.
+Web development,Robotics, Aquarist.
 
 Thanks for visiting my GitHub profile! 😊
