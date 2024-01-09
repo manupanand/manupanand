@@ -14,7 +14,21 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Databases:** MongoDB, SQL
  - **Interests:** Web3 development, AI
 
+   
+![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript/javascript-white?style=for-the-badge&logo=typescript&logoColor=black)
+![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind%20css&logoColor=white)
+![React Native](https://img.shields.io/badge/react%20native-white?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
+
 ## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/MANU_P_ANAND-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manupanand/)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manupanand/).
 
