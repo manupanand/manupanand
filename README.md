@@ -25,6 +25,8 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Connect with Me
 
