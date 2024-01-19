@@ -29,10 +29,12 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![Prisma](https://img.shields.io/badge/prisma-%237449f3?style=for-the-badge&logo=prisma&logoColor=white)
+[//]: # (Comment: Rust Badge)
 ![Rust](https://img.shields.io/badge/rust-white?style=for-the-badge&logo=rust&logoColor=black)
+[//]: # (Comment: go Badge)
 ![Go](https://img.shields.io/badge/go-white?style=for-the-badge&logo=go&logoColor=black)
 
-[//]: # (React Badge)
+
 
 ## Connect with Me
 
