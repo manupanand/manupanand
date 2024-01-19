@@ -22,7 +22,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-white?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-%2309da14?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2309da14?style=for-the-badge&logo=node.js&logoColor=black)
 ![Express](https://img.shields.io/badge/express-white?style=for-the-badge&logo=express&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-336791?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=black)
