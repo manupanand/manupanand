@@ -28,6 +28,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![Docker](https://img.shields.io/badge/docker-336791?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
+![Prisma](https://img.shields.io/badge/prisma-%2338B2AC?style=for-the-badge&logo=prisma&logoColor=white)
 
 ## Connect with Me
 
