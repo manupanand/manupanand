@@ -24,6 +24,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind%20css&logoColor=white)
+![Bun.js](https://img.shields.io/badge/bun.js-white?style=for-the-badge&logo=bun.js&logoColor=black)
 ![React Native](https://img.shields.io/badge/react%20native-white?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-336791?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
