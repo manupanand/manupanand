@@ -17,7 +17,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
    
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript/javascript-white?style=for-the-badge&logo=typescript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript/javascript-336791?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind%20css&logoColor=white)
