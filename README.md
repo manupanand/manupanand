@@ -9,9 +9,10 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 
 ## Technologies & Tools
 
- - **Languages:** C, Python, Javascript
- - **Web Development:** React, Node.js
- - **Databases:** MongoDB, SQL
+ - **Languages:** C, Python, Javascript,Rust,Go
+ - **Web Development:** React, Node.js,Nextjs
+ - **Databases:** MongoDB, SQL,Postgres
+ - **Cloud Services:** AWS
  - **Interests:** Web3 development, AI
 
    
