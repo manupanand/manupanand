@@ -41,6 +41,8 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 
 [![LinkedIn](https://img.shields.io/badge/MANU_P_ANAND-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manupanand/)
 
+[![Outlook](https://img.shields.io/badge/Email-MANU_P_ANAND-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:manupanand@outlook.com)
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manupanand/).
 
 ## Fun Fact
