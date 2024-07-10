@@ -51,5 +51,11 @@ I enjoy exploring new technologies and building cool projects in my free time.
 Web development,Robotics, Aquarist.
 
 ##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+##
 Thanks for visiting my GitHub profile! 😊
