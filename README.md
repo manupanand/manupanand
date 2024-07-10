@@ -10,6 +10,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ## Technologies & Tools
 
  - **Languages:** C, Python, Javascript,Rust,Go
+ - **Linux Distributions:**  Red Hat, Debian
  - **Web Development:** React, Node.js,Nextjs,Tailwind CSS
  - **Databases:** MongoDB, SQL,Postgres
  - **Cloud Services:** AWS
