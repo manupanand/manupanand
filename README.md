@@ -15,7 +15,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Cloud Services:** AWS
  - **Interests:** Web3 development, AI
 
-   
+[![FOSS](https://img.shields.io/badge/FOSS-Federation_of_Open_Source_Software-%2300A4CC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript/javascript-336791?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,6 +34,8 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![Go](https://img.shields.io/badge/go-%23007d9c?style=for-the-badge&logo=go&logoColor=black)
 ![Rust](https://img.shields.io/badge/rust-white?style=for-the-badge&logo=rust&logoColor=black)
 [![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
+[![Red Hat](https://img.shields.io/badge/Red_Hat-%23EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
 
 
 
