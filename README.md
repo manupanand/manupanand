@@ -33,6 +33,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![Prisma](https://img.shields.io/badge/prisma-%237449f3?style=for-the-badge&logo=prisma&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%23007d9c?style=for-the-badge&logo=go&logoColor=black)
 ![Rust](https://img.shields.io/badge/rust-white?style=for-the-badge&logo=rust&logoColor=black)
+[![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
 
 
 
