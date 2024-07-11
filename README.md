@@ -36,7 +36,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![Rust](https://img.shields.io/badge/rust-white?style=for-the-badge&logo=rust&logoColor=black)
 [![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
-[![RHEL](https://img.shields.io/badge/RHEL-%23EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)om/)-->
+[![RHEL](https://img.shields.io/badge/RHEL-%23EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
 
 
 
