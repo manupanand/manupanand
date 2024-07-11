@@ -16,7 +16,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Cloud Services:** AWS
  - **Interests:** Web3 development, AI
 
-[![FOSS](https://img.shields.io/badge/FOSS-Free and_Open_Source_Software-%2300A4CC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
+[![FOSS](https://img.shields.io/badge/FOSS-Free%20and%20Open%20Source%20Software-%2300A4CC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript/javascript-336791?style=for-the-badge&logo=typescript&logoColor=white)
