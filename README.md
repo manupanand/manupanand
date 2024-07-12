@@ -3,7 +3,7 @@
 I am a passionate Software Developer with expertise in C, Python, Javascript, React, Node.js,Express Js,Next Js MongoDB, SQL,Bash scripting,Docker,Kubernetes. My interests span across Web3 development and AI.
 
 - 🔭 I’m currently working on MERN stack projects.
-- 🌱 I’m currently learning MERN, Golang, Rust,Solana,Web3,AI-ML,DevOps,Docker,Kubernetes,Rabbitmq,kafka,IBMmq,pulsar,Nginx,AWS-cloud solutions,Cassandra,InfluxDB
+- 🌱 I’m currently learning MERN, Golang, Rust,Solana,Web3,AI-ML,DevOps,Docker,Kubernetes,Rabbitmq,kafka,IBMmq,pulsar,Nginx,AWS-cloud solutions,Cassandra,InfluxDB,Ansible
 - 👯 I’m open to collaboration on interesting projects.
 - 💬 Ask me about anything related to software development and technology.
 
@@ -13,7 +13,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Linux Distributions:**  Red Hat, Debian
  - **Web Development:** React, Node.js,Nextjs,Tailwind CSS
  - **Databases:** MongoDB, SQL,Postgres
- - **Cloud Services:** AWS
+ - **Cloud Services:** AWS,Ansible
  - **Interests:** Web3 development, AI
 
 [![FOSS](https://img.shields.io/badge/FOSS-Free%20and%20Open%20Source%20Software-%2300A4CC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
@@ -37,6 +37,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 [![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
 [![RHEL](https://img.shields.io/badge/RHEL-%23EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 
 
