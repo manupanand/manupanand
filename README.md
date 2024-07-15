@@ -13,7 +13,8 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Linux Distributions:**  Red Hat, Debian
  - **Web Development:** React, Node.js,Nextjs,Tailwind CSS
  - **Databases:** MongoDB, SQL,Postgres
- - **Cloud Services:** AWS,Ansible
+ - **Cloud Services:** AWS
+ - **DevOps Tools:** Bash, Ansible
  - **Interests:** Web3 development, AI
 
 [![FOSS](https://img.shields.io/badge/FOSS-Free%20and%20Open%20Source%20Software-%2300A4CC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
