@@ -3,7 +3,7 @@
 I am a passionate Software Developer with expertise in C, Python, Javascript, React, Node.js,Express Js,Next Js MongoDB, SQL,Bash scripting,Docker,Kubernetes. My interests span across Web3 development and AI.
 
 - 🔭 I’m currently working on MERN stack projects.
-- 🌱 I’m currently learning MERN, Golang, Rust,Solana,Web3,AI-ML,DevOps,Docker,Kubernetes,Rabbitmq,kafka,IBMmq,pulsar,Nginx,AWS-cloud solutions,Cassandra,InfluxDB,Ansible,ScyllaDB,Neo4j
+- 🌱 I’m currently learning MERN, Golang, Rust,Solana,Web3,AI-ML,DevOps,Docker,Kubernetes,Rabbitmq,kafka,IBMmq,pulsar,Nginx,AWS-cloud solutions,Cassandra,InfluxDB,Ansible,ScyllaDB,Neo4j,DynnamoDB
 - 👯 I’m open to collaboration on interesting projects.
 - 💬 Ask me about anything related to software development and technology.
 
