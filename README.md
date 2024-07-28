@@ -40,7 +40,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 [![RHEL](https://img.shields.io/badge/RHEL-%23EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
 [![Ansible](https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
-
+## Certifications
 
 
 ## Connect with Me
