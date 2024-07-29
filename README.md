@@ -41,7 +41,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 [![Ansible](https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
 
 ## Certifications
-
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-blue.svg)](link-to-your-certification)
 
 ## Connect with Me
 
