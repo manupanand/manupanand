@@ -60,7 +60,7 @@ Web development,Robotics, Aquarist.
 
 ##
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=15)](https://github.com/manupanand)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20)](https://github.com/manupanand)
 ##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical) 
 
