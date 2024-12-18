@@ -35,10 +35,27 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![Prisma](https://img.shields.io/badge/prisma-%237449f3?style=for-the-badge&logo=prisma&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%23007d9c?style=for-the-badge&logo=go&logoColor=black)
 ![Rust](https://img.shields.io/badge/rust-white?style=for-the-badge&logo=rust&logoColor=black)
-[![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
+[![Ansible](https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![AWS](https://img.shields.io/badge/AWS_DevOps-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
 [![RHEL](https://img.shields.io/badge/RHEL-%23EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-%2300ADD8?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
+[![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-%23035A5E?style=for-the-badge&logo=jfrog&logoColor=white)](https://jfrog.com/artifactory/)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-%23E20074?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
+[![Istio](https://img.shields.io/badge/Istio-%230336C9?style=for-the-badge&logo=istio&logoColor=white)](https://istio.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-%23181818?style=for-the-badge&logo=vault&logoColor=white)](https://www.vaultproject.io/)
+
+
+
+
+
+
+
+
+
 
 ## Certifications
 
