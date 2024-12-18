@@ -60,6 +60,8 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ## Certifications
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=232F3E&shape=hexagon)]([link-to-your-certification](https://www.credly.com/badges/e2cce97f-2612-4aac-bca8-73eec7ec9c15/public_url))
+[![IBM DevOps Certified](https://img.shields.io/badge/IBM%20Certified-DevOps%20Professional-054ADA?style=flat&logo=ibm&logoColor=white&labelColor=1A1A1A)](https://www.ibm.com/training/certification)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/MANU_P_ANAND-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manupanand/)
