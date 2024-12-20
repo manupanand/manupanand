@@ -14,6 +14,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Web Development:** React, Node.js,Nextjs,Tailwind CSS
  - **Databases:** MongoDB, SQL,Postgres
  - **Cloud Services:** AWS
+ - **Containerization:** Docker, Kubernetes
  - **DevOps Tools:** Bash, Ansible
  - **Interests:** Web3 development, AI
  - **Currently Learning:** Terraform,Rust,Java,Dart,Jenkins
