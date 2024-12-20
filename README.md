@@ -16,7 +16,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Cloud Services:** AWS
  - **DevOps Tools:** Bash, Ansible
  - **Interests:** Web3 development, AI
- - - **Currently Learning:**Terraform,Rust,Java,Dart,Jenkins
+ - **Currently Learning:**Terraform,Rust,Java,Dart,Jenkins
 
 [![FOSS](https://img.shields.io/badge/FOSS-Free%20and%20Open%20Source%20Software-%2300A4CC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
 ![React](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=black)
