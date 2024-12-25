@@ -35,6 +35,8 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![Prisma](https://img.shields.io/badge/prisma-%237449f3?style=for-the-badge&logo=prisma&logoColor=white)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d71a1a?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![GORM](https://img.shields.io/badge/GORM-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)](https://gorm.io/)
 ![Go](https://img.shields.io/badge/go-%23007d9c?style=for-the-badge&logo=go&logoColor=black)
 ![Rust](https://img.shields.io/badge/rust-white?style=for-the-badge&logo=rust&logoColor=black)
 [![Ansible](https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
