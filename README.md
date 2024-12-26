@@ -120,12 +120,12 @@ I enjoy exploring new technologies and building cool projects in my free time.
 
 ## Hobbies
 Web development,Robotics, Aquarist.
-
+<!---
 ##
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20)](https://github.com/manupanand)
 ##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical) ---
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=manupanand&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=bear&hide_border=false)<br/>
@@ -145,10 +145,12 @@ Web development,Robotics, Aquarist.
 <!-----![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manupanand&theme=react-dark)--->
 
 
----
-[![](https://visitcount.itsvg.in/api?id=manupanand&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 ##
 Thanks for visiting my GitHub profile! 😊
+
+---
+[![](https://visitcount.itsvg.in/api?id=manupanand&icon=0&color=0)](https://visitcount.itsvg.in)
+
