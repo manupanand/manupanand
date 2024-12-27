@@ -18,7 +18,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript,Typ
  - **DevOps Tools:** Bash, Ansible,Terraform
  - **Interests:** Web3 development, AI
 
------
+<!-----
 ## 🛠️ Projects
 
 ### 🚀 **QuizApp**
