@@ -140,3 +140,39 @@ Thanks for visiting my GitHub profile! 😊
 ---
 [![](https://visitcount.itsvg.in/api?id=manupanand&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![](https://github-readme-stats.vercel.app/api?username=manupanand&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
+
+## 🚀 Projects
+
+### 1. **QuizApp**
+A dynamic quiz application with real-time answer submissions and a robust admin panel.
+
+- **Features**:
+  - User authentication.
+  - CRUD operations for questions (Admin Panel).
+  - Real-time functionality using Socket.IO.
+  - Session management with Redis.
+  
+- **Technologies**:
+  ![Node.js](https://img.shields.io/badge/Node.js-16.x-green) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-5.x-brightgreen) 
+  ![Socket.IO](https://img.shields.io/badge/Socket.IO-4.x-purple)
+  
+- 🌐 **Hosted At**: [QuizApp](http://manupanand.online)
+
+---
+
+### 2. **Another Project Name**
+A brief description of the project.
+
+- **Features**:
+  - Feature 1.
+  - Feature 2.
+
+- **Technologies**:
+  ![Tech1](https://img.shields.io/badge/Tech1-Version-blue)
+  ![Tech2](https://img.shields.io/badge/Tech2-Version-red)
+
+- 🌐 **Hosted At**: [Project URL](#)
+
