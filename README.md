@@ -18,22 +18,27 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **DevOps Tools:** Bash, Ansible
  - **Interests:** Web3 development, AI
 
-<!-----
+-----
 ## 🛠️ Projects
 
-### ![🚀 QuizApp](https://img.shields.io/badge/-QuizApp-blueviolet)
-![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=quizapp&theme=bear)
+### 🚀 **QuizApp**
+![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=project-quiz-app&theme=bear)
 
-### ![📘 Portfolio Website](https://img.shields.io/badge/-Portfolio-blue)
+<!---
+
+### 📘 **Portfolio Website**
 ![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=portfolio-website&theme=bear)
 
-### ![📊 Data Analysis Tool](https://img.shields.io/badge/-DataAnalysisTool-green)
+---
+
+### 📊 **Data Analysis Tool**
 ![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=data-analysis-tool&theme=bear)
+
 
 
 --->
  
-
+## Tech-Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
