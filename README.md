@@ -9,13 +9,13 @@ I am a passionate Software Developer with expertise in C, Python, Javascript,Typ
 
 ## Technologies & Tools
 
- - **Languages:** C, C++,Python, Javascript,Go
+ - **Languages:** C, C++,Python, Javascript,Go,Typescript
  - **Linux Distributions:**  Red Hat, Debian
- - **Web Development:** React, Node.js,Nextjs,Tailwind CSS
- - **Databases:** MongoDB, SQL,Postgres
+ - **Web Development:** React, Node.js,Nextjs,Tailwind CSS,Django,fast API,Go-fiber
+ - **Databases:** MongoDB, Redis,Postgres
  - **Cloud Services:** AWS
  - **Containerization:** Docker, Kubernetes
- - **DevOps Tools:** Bash, Ansible
+ - **DevOps Tools:** Bash, Ansible,Terraform
  - **Interests:** Web3 development, AI
 
 -----
