@@ -17,6 +17,21 @@ I am a passionate Software Developer with expertise in C, Python, Javascript, Re
  - **Containerization:** Docker, Kubernetes
  - **DevOps Tools:** Bash, Ansible
  - **Interests:** Web3 development, AI
+
+<!-----
+## 🛠️ Projects
+
+### ![🚀 QuizApp](https://img.shields.io/badge/-QuizApp-blueviolet)
+![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=quizapp&theme=bear)
+
+### ![📘 Portfolio Website](https://img.shields.io/badge/-Portfolio-blue)
+![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=portfolio-website&theme=bear)
+
+### ![📊 Data Analysis Tool](https://img.shields.io/badge/-DataAnalysisTool-green)
+![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=data-analysis-tool&theme=bear)
+
+
+--->
  
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -129,19 +144,6 @@ Web development,Robotics, Aquarist.
 
 
 <!-----![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manupanand&theme=react-dark)--->
-
-## 🛠️ Projects
-
-### ![🚀 QuizApp](https://img.shields.io/badge/-QuizApp-blueviolet)
-![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=quizapp&theme=bear)
-
-### ![📘 Portfolio Website](https://img.shields.io/badge/-Portfolio-blue)
-![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=portfolio-website&theme=bear)
-
-### ![📊 Data Analysis Tool](https://img.shields.io/badge/-DataAnalysisTool-green)
-![](https://github-readme-stats.vercel.app/api/pin/?username=manupanand&repo=data-analysis-tool&theme=bear)
-
-
 
 
 ##
