@@ -11,7 +11,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript,Typ
 
  - **Languages:** C, C++,Python, Javascript,Go,Typescript
  - **Linux Distributions:**  Red Hat, Debian
- - **Web Development:** React, Node.js,Nextjs,Tailwind CSS,Django,fast API,Go-fiber
+ - **Web Development:** Express.js, React, Node.js,Nextjs,Tailwind CSS,Django,fast API,Go-fiber
  - **Databases:** MongoDB, Redis,Postgres
  - **Cloud Services:** AWS
  - **Containerization:** Docker, Kubernetes
