@@ -15,7 +15,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript,Typ
  - **Databases:** MongoDB, Redis,Postgres
  - **Cloud Services:** AWS
  - **Containerization:** Docker, Kubernetes
- - **DevOps Tools:** Bash, Ansible,Terraform,HashiCorp Vault
+ - **DevOps Tools:** Bash Script,Github Actions, Ansible,Terraform,HashiCorp Vault
  - **Interests:** Web3 development, AI
 
 <!-----
