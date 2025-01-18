@@ -116,7 +116,7 @@ I am a passionate Software Developer with expertise in C, Python, Javascript,Typ
 [![LinkedIn](https://img.shields.io/badge/MANU_P_ANAND-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manupanand/)
 
 [![Outlook](https://img.shields.io/badge/Email-MANU_P_ANAND-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:manupanand@outlook.com)
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/Manu_P_Anand) 
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Manu_P_Anand) 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manupanand/).
 
