@@ -96,8 +96,8 @@ I am a passionate Software Developer with expertise in C, Python, Javascript,Typ
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-[![LangChain](https://img.shields.io/badge/LangChain-Framework%20for%20LLMs-%233272A5?style=for-the-badge&logo=data:image/svg+xml;base64,<base64_encoded_logo>&logoColor=white)](https://langchain.com)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Graphical%20Interface%20for%20LLMs-%23FF5733?style=for-the-badge&logo=data:image/svg+xml;base64,<base64_encoded_logo>&logoColor=white)](https://langgraph.example.com)
+[![LangChain](https://img.shields.io/badge/LangChain-Framework%20for%20LLMs-%233272A5?style=for-the-badge&logo=https://yourhost.com/langchain-logo.svg&logoColor=white)]()
+[![LangGraph](https://img.shields.io/badge/LangGraph-Graphical%20Interface%20for%20LLMs-%23FF5733?style=for-the-badge&logo=https://yourhost.com/langgraph-logo.svg&logoColor=white)]()
 [![FOSS](https://img.shields.io/badge/FOSS-Free%20and%20Open%20Source%20Software-%2300A4CC?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/)
 
 
