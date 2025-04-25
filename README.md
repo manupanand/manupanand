@@ -18,14 +18,6 @@
 
 ---
 
-## 📌 Career Highlights
-
-- 🏢 Former **Research Engineer** in mechanical simulation and HPC — automated pre/post-processing pipelines, supported HPC environments running ANSYS and OpenFOAM.
-- 🏢 Founder at **Exaltis Enterprises LLP** (Real Estate sector) — Managed end-to-end operations and business decisions.
-- 📈 Spearheaded containerization of legacy apps and GitOps adoption, increasing deployment scalability and operational efficiency.
-- 🎓 **B.Tech** in Mechanical Engineering.
-
----
 
 ## 🧰 Tech Stack
 
