@@ -1,5 +1,4 @@
 
-```markdown
 # 👋 Hi there, I'm [Your Name]!
 
 🎯 **DevOps Engineer** with over **6 years of Linux experience** and more than **4 years in automation scripting**. I transitioned from a Mechanical Research background to DevOps, blending deep analytical skills with modern infrastructure engineering practices.
