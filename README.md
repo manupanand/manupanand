@@ -39,7 +39,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/manupanand)
 - 🌐 [Portfolio Website](https://www.manupanand.com)
-- 📧 Email: manupanand@gmail.com
+
 
 ---
 
