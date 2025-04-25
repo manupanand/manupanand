@@ -1,4 +1,3 @@
-Sure! Here's a clean and professional `README.md` for your GitHub profile based on all the input you've provided:
 
 ```markdown
 # 👋 Hi there, I'm [Your Name]!
