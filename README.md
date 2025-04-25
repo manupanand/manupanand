@@ -29,7 +29,7 @@
 
 ## 🧰 Tech Stack
 
-```bash
+
 Languages:       Python, Bash, Shell
 Infra as Code:   Terraform, Ansible
 Containers:      Docker, Kubernetes (K8s), Helm
@@ -39,21 +39,21 @@ Security:        Vault, Trivy, SonarQube
 Cloud Platforms: AWS, GCP, Azure
 Build Tools:     Maven, NPM, Uvicorn
 Version Control: Git, GitHub, GitLab
-```
+
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://your-portfolio.com)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/manupanand)
+- 🌐 [Portfolio Website](https://www.manupanand.com)
+- 📧 Email: manupanand@gmail.com
 
 ---
 
 _“Automate what you can. Monitor what you can't. Improve what matters.”_
 
-```
+
 
 
 # Hi there! 👋 I'm Manu P Anand
