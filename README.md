@@ -22,15 +22,15 @@
 ## 🧰 Tech Stack
 
 
-Languages:       Python, Bash, Shell
-Infra as Code:   Terraform, Ansible
-Containers:      Docker, Kubernetes (K8s), Helm
-CI/CD:           Jenkins, GitHub Actions
-Monitoring:      Prometheus, Grafana, ELK
-Security:        Vault, Trivy, SonarQube
-Cloud Platforms: AWS, GCP, Azure
-Build Tools:     Maven, NPM, Uvicorn
-Version Control: Git, GitHub, GitLab
+- **Languages:**      Python, Bash, Shell
+- **Infra as Code:**   Terraform, Ansible
+- **Containers:**      Docker, Kubernetes (K8s), Helm
+- **CI/CD:**           Jenkins, GitHub Actions
+- **Monitoring:**      Prometheus, Grafana, ELK
+- **Security:**        Vault, Trivy, SonarQube
+- **Cloud Platforms:** AWS, GCP, Azure
+- **Build Tools:**     Maven, NPM, Uvicorn
+- **Version Control:** Git, GitHub, GitLab
 
 
 ---
