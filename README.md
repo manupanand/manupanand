@@ -1,3 +1,63 @@
+Sure! Here's a clean and professional `README.md` for your GitHub profile based on all the input you've provided:
+
+```markdown
+# 👋 Hi there, I'm [Your Name]!
+
+🎯 **DevOps Engineer** with over **6 years of Linux experience** and more than **4 years in automation scripting**. I transitioned from a Mechanical Research background to DevOps, blending deep analytical skills with modern infrastructure engineering practices.
+
+---
+
+## 🚀 About Me
+
+- 🔧 Passionate about **automating everything** – from provisioning infrastructure to setting up monitoring and CI/CD pipelines.
+- 🐧 Expert in Linux systems (RHEL & Debian) with experience automating complex batch processes and server management.
+- ☁️ Skilled across cloud platforms: **AWS**, **GCP**, and **Azure**.
+- 🔁 Designed robust **CI/CD pipelines** using **Jenkins** and **GitHub Actions**, reducing manual effort by 40% and streamlining delivery.
+- 📦 Built and deployed applications using **Docker**, **Kubernetes (self-managed & EKS)**, and **Helm**.
+- 🔐 Advocate of **DevSecOps**, integrating tools like **Vault**, **Trivy**, and **SonarQube** into delivery pipelines.
+- 📈 Improved observability with **Prometheus**, **Grafana**, and structured monitoring – optimizing costs and performance.
+- 🛠️ Tools I love: **Terraform**, **Ansible**, **Python**, **Bash**, **ArgoCD**, **Helm**, **Uvicorn**, **Maven**, **NPM**
+
+---
+
+## 📌 Career Highlights
+
+- 🏢 Former **Research Engineer** in mechanical simulation and HPC — automated pre/post-processing pipelines, supported HPC environments running ANSYS and OpenFOAM.
+- 🏢 Founder at **Exaltis Enterprises LLP** (Real Estate sector) — Managed end-to-end operations and business decisions.
+- 📈 Spearheaded containerization of legacy apps and GitOps adoption, increasing deployment scalability and operational efficiency.
+- 🎓 **B.Tech** in Mechanical Engineering.
+
+---
+
+## 🧰 Tech Stack
+
+```bash
+Languages:       Python, Bash, Shell
+Infra as Code:   Terraform, Ansible
+Containers:      Docker, Kubernetes (K8s), Helm
+CI/CD:           Jenkins, GitHub Actions
+Monitoring:      Prometheus, Grafana, ELK
+Security:        Vault, Trivy, SonarQube
+Cloud Platforms: AWS, GCP, Azure
+Build Tools:     Maven, NPM, Uvicorn
+Version Control: Git, GitHub, GitLab
+```
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 [Portfolio Website](https://your-portfolio.com)
+- 📧 Email: your.email@example.com
+
+---
+
+_“Automate what you can. Monitor what you can't. Improve what matters.”_
+
+```
+
+
 # Hi there! 👋 I'm Manu P Anand
 
 I am a passionate Software Developer with expertise in C, Python, Javascript,Typescript, React, Node.js,Express Js,Next Js MongoDB,Django,FastAPI,Postgres, SQLAlchemy,Prisma,Bash scripting,Docker,Kubernetes. My interests span across Web3 development and AI.
