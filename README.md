@@ -151,7 +151,6 @@ I am a passionate Software Developer with expertise in C, Python, Javascript,Typ
 
 
 
-
 ## Certifications
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=232F3E&shape=hexagon)]([link-to-your-certification](https://www.credly.com/badges/e2cce97f-2612-4aac-bca8-73eec7ec9c15/public_url))
@@ -179,6 +178,9 @@ I enjoy exploring new technologies and building cool projects in my free time.
 
 ## Hobbies
 Web development,Robotics, Aquarist.
+
+### 📘 **My Resume**
+![Resume](https://www.manupanand.com/resume)
 <!---
 ##
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=radical)
