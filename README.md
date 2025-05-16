@@ -180,7 +180,7 @@ I enjoy exploring new technologies and building cool projects in my free time.
 Web development,Robotics, Aquarist.
 
 ### 📘 **My Resume**
-![Resume](https://www.manupanand.com/resume)
+[![Resume]()](https://www.manupanand.com/resume)
 <!---
 ##
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=radical)
