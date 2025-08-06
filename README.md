@@ -13,7 +13,7 @@
 - 🔁 Designed robust **CI/CD pipelines** using **Jenkins** and **GitHub Actions**, reducing manual effort by 40% and streamlining delivery.
 - 📦 Built and deployed applications using **Docker**, **Kubernetes (self-managed & EKS)**, and **Helm**.
 - 🔐 Advocate of **DevSecOps**, integrating tools like **Vault**, **Trivy**, and **SonarQube** into delivery pipelines.
-- 📈 Improved observability with **Prometheus**, **Grafana**, and structured monitoring – optimizing costs and performance.
+- 📈 Improved observability with **Prometheus**, **Grafana**, **ELK** and structured monitoring – optimizing costs and performance.
 - 🛠️ Tools I love: **Terraform**, **Ansible**, **Python**, **Bash**, **ArgoCD**, **Helm**, **Uvicorn**, **Maven**, **NPM**
 
 ---
