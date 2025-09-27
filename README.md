@@ -28,7 +28,7 @@
 - **CI/CD:**           Jenkins, GitHub Actions
 - **Monitoring:**      Prometheus, Grafana, ELK
 - **Security:**        Vault, Trivy, SonarQube
-- **Cloud Platforms:** AWS, GCP, Azure
+- **Cloud Platforms:** AWS, GCP, Azure, IBM cloud, OCI, DigitalOcean
 - **Build Tools:**     Maven, NPM, Uvicorn
 - **Version Control:** Git, GitHub, GitLab
 
