@@ -199,12 +199,13 @@ Web development, Robotics, Aquarist.
 [![Resume]()](https://www.manupanand.com/resume)
 
 # 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manupanand&theme=radical&hide_border=false)
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20&theme=radical&hide_border=false)](https://github.com/manupanand)
+<!-- Put each image on its own line with a blank line between -->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=manupanand&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20&theme=radical)
 
 ---
 
