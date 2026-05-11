@@ -210,7 +210,10 @@ Web development, Robotics, Aquarist.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20)](https://github.com/manupanand)
 ##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical) --->
-![Metrics](./metrics.svg)
+![GitHub Stats](./metrics-stats.svg)
+ 
+![Top Languages](./metrics-langs.svg)
+
 ---
 
 ##
