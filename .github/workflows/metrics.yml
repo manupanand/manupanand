@@ -15,7 +15,7 @@ jobs:
 
     steps:
 
-      # 1. GitHub Stats (commits, PRs, stars, issues)
+      # 1. GitHub Stats (commits, PRs, stars, issues, streak)
       - name: Generate GitHub Stats
         uses: lowlighter/metrics@latest
         with:
@@ -24,16 +24,10 @@ jobs:
           template: classic
           filename: metrics-stats.svg
           base: header, activity, community
-          base_indepth: yes
-          plugin_achievements: no
-          plugin_topics: no
-          plugin_stars: no
-          plugin_repositories: no
-          plugin_introduction: no
-          plugin_activity: no
+          base_indepth: no
           plugin_streak: yes
 
-      # 2. Language pie chart only
+      # 2. Language chart — NO indepth to avoid API rate limit exhaustion
       - name: Generate Language Stats
         uses: lowlighter/metrics@latest
         with:
@@ -47,4 +41,4 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
