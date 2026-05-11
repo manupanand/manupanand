@@ -199,6 +199,14 @@ Web development, Robotics, Aquarist.
 [![Resume]()](https://www.manupanand.com/resume)
 
 # 📊 GitHub Stats :
+<!--![](https://github-readme-stats.vercel.app/api?username=manupanand&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=30) --->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20)](https://github.com/manupanand)
+##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical) --->
+# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=manupanand&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=30)
