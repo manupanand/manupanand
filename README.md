@@ -198,13 +198,30 @@ Web development, Robotics, Aquarist.
 ### 📘 **My Resume**
 [![Resume]()](https://www.manupanand.com/resume)
 
-# 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manupanand&theme=radical&hide_border=false)
- 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20&theme=radical&hide_border=false)](https://github.com/manupanand)
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  
+  <img src="https://streak-stats.demolab.com?user=manupanand&theme=radical&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=10&theme=radical&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manupanand&theme=react-dark)](https://github.com/manupanand)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=manupanand&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
