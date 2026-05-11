@@ -199,20 +199,12 @@ Web development, Robotics, Aquarist.
 [![Resume]()](https://www.manupanand.com/resume)
 
 # 📊 GitHub Stats :
-<!-- Put each image on its own line with a blank line between 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=manupanand&theme=radical)-->
-
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20&theme=radical)--->
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20)](https://github.com/manupanand)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical)
-<!---![GitHub Stats](./metrics-stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
  
-![Top Languages](./metrics-langs.svg)-->
+![GitHub Streak](https://streak-stats.demolab.com/?user=manupanand&theme=radical&hide_border=false)
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20&theme=radical&hide_border=false)](https://github.com/manupanand)
+
 
 ---
 
