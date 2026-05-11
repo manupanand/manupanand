@@ -201,7 +201,7 @@ Web development, Robotics, Aquarist.
 # 📊 GitHub Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manupanand&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=manupanand&theme=radical&hide_border=false)
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=20&theme=radical&hide_border=false)](https://github.com/manupanand)
 
