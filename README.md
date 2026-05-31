@@ -209,23 +209,22 @@ Web development, Robotics, Aquarist.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manupanand&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manupanand&layout=compact&theme=tokyonight&langs_count=10" height="170"/>
 </p>
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  
+ <!-- 
   <img src="https://streak-stats.demolab.com?user=manupanand&theme=radical&hide_border=true" height="170"/>
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manupanand&layout=compact&langs_count=10&theme=radical&hide_border=true" height="170"/>
 </p>
-
----
-
+--->
+<!--
 # 📈 Contribution Graph
-
+<!--
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manupanand&theme=react-dark)](https://github.com/manupanand)
 
 ---
