@@ -209,7 +209,7 @@ Web development, Robotics, Aquarist.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manupanand&theme=tokyonight&langs_count=10&layout=donut-vertical"  height="200" width="300"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manupanand&theme=tokyonight&langs_count=10&layout=donut-vertical"  height="300" width="200"/>
 </p>
 <!--
 <p align="center">
