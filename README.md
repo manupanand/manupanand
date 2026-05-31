@@ -200,7 +200,18 @@ Web development, Robotics, Aquarist.
 
 
 # 📊 GitHub Stats
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=manupanand&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=manupanand&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manupanand&layout=compact&theme=tokyonight" height="170"/>
+</p>
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manupanand&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   
@@ -223,7 +234,7 @@ Web development, Robotics, Aquarist.
 
 ![](https://github-profile-trophy.vercel.app/?username=manupanand&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
+--->
 
 ##
 Thanks for visiting my GitHub profile! 😊
